@@ -1,0 +1,23 @@
+#Names{
+    color: blue;
+    font-size: medium;
+    border: 1px;
+    border-color: darkcyan;
+}
+input{ 
+    color:red;
+    background-color:#fee;
+    font-size: medium;
+}
+#Year{
+    font-size: medium;
+    align-items:center;
+}
+value{
+    color: aqua;
+}
+#submit{
+    margin:left;
+}
+
+

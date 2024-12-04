@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning -
 - softwareengineering
 - web development
-- cybersecurity
 - 💞️ I’m looking to collaborate on am always open to colaborating with fellow developers and contributing to interesting projects.I'd love to work on
 - **Open-source projects**
 - **Machine learning & AI applications**

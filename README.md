@@ -5,11 +5,9 @@
 
 <!---------------p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=japhes" alt="japhes" /></a> </p----------------->
 
-- 🔭 I’m currently working on **personal portfolio**
+- 🔭 I’m currently working on **SafariConnect Project**
 
-- 🌱 I’m currently learning **Django**
-
-- 💬 Ask me about **python, bootsrap, Css, HTML,**
+- 💬 Ask me about **python, bootsrap, Css, HTML,Django**
 
 - 📫 How to reach me **japhesmurithi@gmail.com**
 
